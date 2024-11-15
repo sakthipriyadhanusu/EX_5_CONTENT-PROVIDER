@@ -1,6 +1,5 @@
 
-# Ex.No:5 Create Your Own Content Providers to get Contacts details.
-
+# Ex.No:5 Implement an application to display the Contact Details Using Content Provider
 
 ## AIM:
 
